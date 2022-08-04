@@ -1,18 +1,21 @@
-# Entra21_JavaScript_2022
+# entra21 Javascript
+Repositório com as práticas realizadas em aula 
 
-Practical content carried out in the classroom during the Entra21 project.
+> Conteúdo prático realizado em sala durante o projeto Entra21
+> Em aditivo oportunidades de aprendizado em:
+> - Versionamento
+> - Linguagem markdown
+> - Documentação
+![Gif Entra21](/entra21.gif)
+## Aula Ministradas
 
-## 📚&nbsp;Classes Taught
+<a href="#"><img align="center" src="./giphy.gif" width="400 " height="300" /></a>
 
-| CLASS 🖥️ | SUBJECT 📚| <div align="center">▶️</div> |
-|---------|---------|---------|
-|Class 01| Ambiente |[<div align="center">▶️</div>](./class_01/)|
-|Class 02| |[<div align="center">▶️</div>](./class_02/)|
-|Class 03|  |[<div align="center">▶️</div>](./class_03/)|
-|Class 04|  |[<div align="center">▶️</div>](./class_04/)|
-|Class 05|  |[<div align="center">▶️</div>](./class_05/)|
-|Class 06|  |[<div align="center">▶️</div>](./class_06/)|
-|Class 07|  |[<div align="center">▶️</div>](./class_07/)|
-|Class 08|  |[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_Front_End_2022)|
-
-  ![Gif Entra21](./gif/entra21.gif)
+| AULA | ASSUNTO |
+|------|---------|
+|Aula 01 | Introdução ao Javascript : console + variaveis + operadores
+|Aula 02 | Funções
+|Aula 03 | Acessar e manipular o document
+|Aula 04 | Acessar e manipular o document com jQuery
+|Aula 05 | Escrever páginas inteiras com jQuery
+|Aula 06 | Acessar API jQuery + Ajax 
